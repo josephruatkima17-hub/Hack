@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "server manager",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Linda1099.aternos.me",
