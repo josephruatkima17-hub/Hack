@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Linda1099.aternos.me:17347",
+    "ip": "Linda1099.aternos.me",
     "port": 17347,
     "version": "",
     "try-creative": false
